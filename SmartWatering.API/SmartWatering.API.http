@@ -1,0 +1,6 @@
+@SmartWatering.API_HostAddress = http://localhost:5109
+
+GET {{SmartWatering.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
